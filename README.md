@@ -69,7 +69,7 @@ At the core of everything I do, I am an explorer who loves trying new things. My
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=KK3003&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+
   <br>
   <br>
   <br>
