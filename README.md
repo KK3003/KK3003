@@ -44,7 +44,6 @@ At the core of everything I do, I am an explorer who loves trying new things. My
 <hr>
  
 ## Connect with me 🤝🏻
-Usually, you can find me at my desk, sipping my cafe while implementing new feature in my game. But in any case, you can also get in touch below.
 
 <a href="https://www.linkedin.com/in/kunal-khedkar-2506791b5/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -80,7 +79,7 @@ Usually, you can find me at my desk, sipping my cafe while implementing new feat
 <br>
 
 <h4 align="center">
-  <a href="https://github.com/KK3003?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/KK3003?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h4>
 
 </div>
