@@ -10,11 +10,11 @@
 
 <div align="center">
  
-I am a game developer, indie game publisher, and gamer, driven by a passion to create and explore new worlds.
+I am a game developer, gamer, driven by a passion to create and explore new worlds.
 
-Video games are not just a hobby for me, but a way of life. They inspire me to create new games and push the boundaries of what is possible. As an indie game publisher, I am proud to share my creations with the gaming community and contribute to the growth of the industry.
+Video games are not just a hobby for me, but a way of life. They inspire me to create new games and push the boundaries of what is possible.
 
-At the core of everything I do, I am an explorer who loves trying new things. My endless thirst for adventure and discovery fuels my work, as I strive to bring new and exciting gaming experiences to the world. Game development and indie game publishing are not just my jobs, but my life's work - a way to express my creativity and share my passion with others.
+At the core of everything I do, I am an explorer who loves trying new things. My endless thirst for adventure and discovery fuels my work, as I strive to bring new and exciting gaming experiences to the world. Game development is not just my job, but my life's work - a way to express my creativity and share my passion with others.
 
 </div> 
  
@@ -86,11 +86,6 @@ Usually, you can find me at my desk, sipping my cafe while implementing new feat
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KK3003&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
   <br>
   <br>
   <br>
