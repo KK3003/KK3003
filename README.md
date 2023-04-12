@@ -112,15 +112,6 @@ Usually, you can find me at my desk, sipping my cafe while implementing new feat
   <a href="https://github.com/KK3003?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br>
-  <img alt="snake eating my contribution" src="https://github.com/KK3003/KK3003/blob/output/github-contribution-grid-snake.svg">
-  <br>
-  <br>
-  <br>
-</div>
-
 </div>
 
 
