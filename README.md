@@ -41,12 +41,6 @@ At the core of everything I do, I am an explorer who loves trying new things. My
   </a>
 </p>
 <br>
-<h4>Learning</h4>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unreal,blender" />
-  </a>
-</p>
 <hr>
  
 ## Connect with me 🤝🏻
