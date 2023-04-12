@@ -46,20 +46,15 @@ At the core of everything I do, I am an explorer who loves trying new things. My
 ## Connect with me 🤝🏻
 Usually, you can find me at my desk, sipping my cafe while implementing new feature in my game. But in any case, you can also get in touch below.
 
-<a href="https://replit.com/@ShakilHassan1" target="_blank">
-<img src=https://img.shields.io/badge/replit-%2324292e.svg?&style=for-the-badge&logo=replit&logoColor=white alt=replit style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/shakil-hassan-526528100/" target="_blank">
+
+<a href="https://www.linkedin.com/in/kunal-khedkar-2506791b5/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:shakilhassan.bcm@gmail.com" target="_blank">
+<a href="mailto:kbkhedkar2200@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a> 
-<a href="https://github.com/Shakil-Hassan" target="_blank">
+<a href="https://github.com/KK3003" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://discord.com/users/shakilHassan#7400"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<br/>
 </a>
  
  <br/>
@@ -107,9 +102,4 @@ Usually, you can find me at my desk, sipping my cafe while implementing new feat
 </h4>
 
 </div>
-
-
-
-
-
 
