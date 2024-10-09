@@ -10,11 +10,11 @@
 
 <div align="center">
  
-I am a game developer, gamer, driven by a passion to create and explore new worlds.
+I am a data engineer, driven by a passion to transform raw data into valuable insights and solutions.
 
-Video games are not just a hobby for me, but a way of life. They inspire me to create new games and push the boundaries of what is possible.
+Data is not just numbers to me; it's a dynamic force that shapes decisions and innovations. My love for exploring data pushes me to create efficient systems and pipelines that unlock the full potential of information.
 
-At the core of everything I do, I am an explorer who loves trying new things. My endless thirst for adventure and discovery fuels my work, as I strive to bring new and exciting gaming experiences to the world. Game development is not just my job, but my life's work - a way to express my creativity and share my passion with others.
+At the core of everything I do, I am an analyst and problem-solver who thrives on uncovering patterns and discovering meaning. My continuous curiosity and drive for optimization fuel my work, as I strive to bring new and powerful data-driven experiences to the world. Data engineering is not just my job, but my mission – a way to express my creativity and contribute to innovation.
 
 </div> 
  
