@@ -12,7 +12,7 @@
  
 I am a data engineer, driven by a passion to transform raw data into valuable insights and solutions.
 
-Data is not just numbers to me; it's a dynamic force that shapes decisions and innovations. My love for exploring data pushes me to create efficient systems and pipelines that unlock the full potential of information.
+Data is not just numbers to me, it's a dynamic force that shapes decisions and innovations. My love for exploring data pushes me to create efficient systems and pipelines that unlock the full potential of information.
 
 At the core of everything I do, I am an analyst and problem-solver who thrives on uncovering patterns and discovering meaning. My continuous curiosity and drive for optimization fuel my work, as I strive to bring new and powerful data-driven experiences to the world. Data engineering is not just my job, but my mission – a way to express my creativity and contribute to innovation.
 
@@ -36,7 +36,7 @@ At the core of everything I do, I am an analyst and problem-solver who thrives o
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,unity,github,cpp,cs" /><br>
+    <img src=ev/"https://skillicons.dicons?i=git,python,sql,postgres,github,cpp,cs,unity" /><br>
 
   </a>
 </p>
